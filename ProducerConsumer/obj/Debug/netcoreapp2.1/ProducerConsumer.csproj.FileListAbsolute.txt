@@ -1,0 +1,11 @@
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.csprojAssemblyReference.cache
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.AssemblyInfo.cs
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp2.1\ProducerConsumer.deps.json
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp2.1\ProducerConsumer.runtimeconfig.json
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp2.1\ProducerConsumer.runtimeconfig.dev.json
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp2.1\ProducerConsumer.dll
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp2.1\ProducerConsumer.pdb
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.dll
+C:\Users\TinyRhombus\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp2.1\ProducerConsumer.pdb
